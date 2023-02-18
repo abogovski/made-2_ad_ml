@@ -2,3 +2,4 @@ torch==1.10.2
 numpy==1.19.5
 pillow==8.4.0
 pytorch-lightning==1.5.10
+matplotlib=3.3.4
